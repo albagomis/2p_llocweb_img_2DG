@@ -1,2 +1,2 @@
-# 2p_llocweb_img_2dg
+# 2p_llocweb_img_2DG
 Pàgines html, enllaços
